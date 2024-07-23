@@ -1,0 +1,80 @@
+<VAST version="3.0">
+	<Ad id="msua13yg">
+		<InLine>
+			<AdSystem>
+				<![CDATA[ Revive Adserver Hosted edition - Ad delivery ]]>
+			</AdSystem>
+			<AdTitle>
+				<![CDATA[ ADProxy Test ]]>
+			</AdTitle>
+			<Impression>
+				<![CDATA[ https://servedby.revive-adserver.net/lg.php?bannerid=114694&campaignid=36081&zoneid=20076&cb=974633b11f ]]>
+			</Impression>
+			<Creatives>
+				<Creative id="114694">
+					<Duration>00:00:30</Duration>
+					<TrackingEvents>
+						<Tracking event="start">
+							<![CDATA[ https://servedby.revive-adserver.net/fc.php?script=videoAds:vastEvent&bannerid=114694&zoneid=20076&event=start ]]>
+						</Tracking>
+						<Tracking event="midpoint">
+							<![CDATA[ https://servedby.revive-adserver.net/fc.php?script=videoAds:vastEvent&bannerid=114694&zoneid=20076&event=midpoint ]]>
+						</Tracking>
+						<Tracking event="firstQuartile">
+							<![CDATA[ https://servedby.revive-adserver.net/fc.php?script=videoAds:vastEvent&bannerid=114694&zoneid=20076&event=firstquartile ]]>
+						</Tracking>
+						<Tracking event="thirdQuartile">
+							<![CDATA[ https://servedby.revive-adserver.net/fc.php?script=videoAds:vastEvent&bannerid=114694&zoneid=20076&event=thirdquartile ]]>
+						</Tracking>
+						<Tracking event="complete">
+							<![CDATA[ https://servedby.revive-adserver.net/fc.php?script=videoAds:vastEvent&bannerid=114694&zoneid=20076&event=complete ]]>
+						</Tracking>
+					</TrackingEvents>
+					<VideoClicks>
+						<ClickThrough>
+							<![CDATA[ https://www.thetradedesk.com/us ]]>
+						</ClickThrough>
+						<ClickTracking>
+							<![CDATA[ https://insight.adsrvr.org/track/clk?imp=5c0f5f33-ba93-402a-875d-417d749a2406&ag=rrl0jlr&sfe=17366f69&sig=PvbrxIFdZT6KoVqwOCSqueLCZke3sFIjKfUa3dgCv24.&crid=msua13yg&cf=5552264&fq=0&t=1&td_s=O04-C01&rcats=&mste=&mfld=4&mssi=&mfsi=&sv=ucfunnel&uhow=42&agsa=&wp=0.1&rgz=801%2043&dt=OutOfHome&osf=Other&os=Other&br=Other&svpid=pub-627D69638A6D479DC6EE966D627D98E&rlangs=01&mlang=&did=ucfunnel-deal-64edb65b862d9a6c5ffd0e6b&rcxt=Other&tmpc=28.94&vrtd=14,15&osi=&osv=&daid=a7820698-e904-32e6-8e67-330942d4fdd7&dnr=1&vpb=PreRoll&c=CgZUYWl3YW4SDkthb2hzaXVuZyBDaXR5GgAiD1Nhbm1pbiBEaXN0cmljdDAEOABIAFABWAGAAQCIAQKQAQCwAQC6AQQIARgC4AEA6AEA_QEAAAAAkgIiYWQtOEEyRTI2ODJBREU4RUVERTE5QTg2QjI2N0I2MjYzQdgCiA7gAogO6AI88AIF-AIB&dur=&durs=&crrelr=&npt=&ipl=ad-8A2E2682ADE8EEDE19A86B267B6263A&pcm=1&ict=Unknown&said=d982d0f2-bc73-484f-83b5-0b714afaf69e&impx=1&doohv=0105&auct=3&r= ]]>
+						</ClickTracking>
+						<ClickTracking>
+							<![CDATA[ https://apac-sg-ad-track.aralego.com/v1/vid/click?iid=d982d0f2-bc73-484f-83b5-0b714afaf69e ]]>
+						</ClickTracking>
+					</VideoClicks>
+					<MediaFiles>
+						<MediaFile delivery="progressive" type="video/mp4" bitrate="1819" width="640" height="360">
+							<![CDATA[https://media.pilottv.dev/MS/TEST/Data/MS202407A001/雀巢檸檬茶X崩壞_10秒_一般用品.mp4]]>
+						</MediaFile>
+						<MediaFile delivery="progressive" type="video/mp4" bitrate="1029" width="960" height="540">
+							<![CDATA[https://media.pilottv.dev/MS/TEST/Data/MS202407A001/雀巢檸檬茶X崩壞_10秒_一般用品.mp4]]>
+						</MediaFile>
+						<MediaFile delivery="progressive" type="video/mp4" bitrate="1010" width="854" height="480">
+							<![CDATA[https://media.pilottv.dev/MS/TEST/Data/MS202407A001/雀巢檸檬茶X崩壞_10秒_一般用品.mp4]]>
+						</MediaFile>
+						<MediaFile delivery="progressive" type="video/mp4" bitrate="854" width="768" height="432">
+							<![CDATA[https://media.pilottv.dev/MS/TEST/Data/MS202407A001/雀巢檸檬茶X崩壞_10秒_一般用品.mp4]]>
+						</MediaFile>
+						<MediaFile delivery="progressive" type="video/mp4" bitrate="673" width="640" height="360">
+							<![CDATA[https://media.pilottv.dev/MS/TEST/Data/MS202407A001/雀巢檸檬茶X崩壞_10秒_一般用品.mp4]]>
+						</MediaFile>
+						<MediaFile delivery="progressive" type="video/mp4" bitrate="673" width="640" height="360">
+							<![CDATA[https://media.pilottv.dev/MS/TEST/Data/MS202407A001/雀巢檸檬茶X崩壞_10秒_一般用品.mp4]]>
+						</MediaFile>
+						<MediaFile delivery="progressive" type="video/mp4" bitrate="616" width="640" height="360">
+							<![CDATA[https://media.pilottv.dev/MS/TEST/Data/MS202407A001/雀巢檸檬茶X崩壞_10秒_一般用品.mp4]]>
+						</MediaFile>
+						<MediaFile delivery="progressive" type="video/mp4" bitrate="503" width="960" height="540">
+							<![CDATA[https://media.pilottv.dev/MS/TEST/Data/MS202407A001/雀巢檸檬茶X崩壞_10秒_一般用品.mp4]]>
+						</MediaFile>
+						<MediaFile delivery="progressive" type="video/mp4" bitrate="400" width="640" height="360">
+							<![CDATA[https://media.pilottv.dev/MS/TEST/Data/MS202407A001/雀巢檸檬茶X崩壞_10秒_一般用品.mp4]]>
+						</MediaFile>
+						<MediaFile delivery="progressive" type="video/mp4" bitrate="257" width="640" height="360">
+							<![CDATA[https://media.pilottv.dev/MS/TEST/Data/MS202407A001/雀巢檸檬茶X崩壞_10秒_一般用品.mp4]]>
+						</MediaFile>
+					</MediaFiles>
+				</Creative>
+			</Creatives>
+		</InLine>
+	</Ad>
+</VAST>
